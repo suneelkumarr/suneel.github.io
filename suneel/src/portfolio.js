@@ -54,7 +54,7 @@ const skillsSection = {
     softwareSkills: [
       {
         skillName: "html-5",
-        fontAwesomeClassname: "fab fa-html5"
+        fontAwesomeClassname: "fab fa-html5",
       },
       {
         skillName: "css3",
@@ -78,7 +78,7 @@ const skillsSection = {
       },
       {
         skillName: "mongodb",
-        fontAwesomeClassname: "fab fa-swift"
+        fontAwesomeClassname: "fas fa-database"
       },
       {
         skillName: "npm",

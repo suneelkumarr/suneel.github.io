@@ -1,5 +1,5 @@
 import React from "react";
-import "./Social.css";
+import "./Social.scss";
 import {social} from "../../portfolio";
 
 export default function socialMedia() {

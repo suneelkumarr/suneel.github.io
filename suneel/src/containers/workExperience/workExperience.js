@@ -1,5 +1,5 @@
 import React, {useContext} from "react";
-import "./workExperience.css";
+import "./workExperience.scss";
 import ExperienceCard from "../../components/experienceCard/ExperienceCard";
 import {workExperiences} from "../../portfolio";
 import {Fade} from "react-reveal";
