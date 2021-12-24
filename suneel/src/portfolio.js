@@ -11,7 +11,7 @@ const greeting={
         "A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
       ),
       resumeLink:
-        "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+        "https://drive.google.com/file/d/1gceRTDzEfluOhN3SXIKlkR3g1l98YKVV/view?usp=drivesdk",
       displayGreeting: true // Set false to hide this section, defaults to true
 
 }
@@ -21,14 +21,14 @@ const greeting={
 
 const social={
     github: "https://github.com/suneel05644",
-  // linkedin: "https://www.linkedin.com/in/",
+  linkedin: "https://www.linkedin.com/in/suneelkumar05644",
   gmail: "techsuneel99@gmail.com",
   // gitlab: "https://gitlab.com/",
   // facebook: "https://www.facebook.com/",
-  medium: "https://medium.com/@davidrakosi",
-  stackoverflow: "https://stackoverflow.com/users/13263979/drakosi",
-  instagram: 'https://www.instagram.com/davidrakosi/',
-  twitter: 'https://twitter.com/davidrakosi_',
+  // medium: "https://medium.com/@davidrakosi",
+  // stackoverflow: "https://stackoverflow.com/users/13263979/drakosi",
+  // instagram: 'https://www.instagram.com/davidrakosi/',
+  // twitter: 'https://twitter.com/davidrakosi_',
   display: true // Set true to display this section, defaults to false
 }
 
